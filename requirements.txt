@@ -4,3 +4,4 @@ yfinance==0.1.55
 pandas-datareader==0.9.0
 plotly==4.6.0
 streamlit==0.83.0
+openpyxl==3.0.3
