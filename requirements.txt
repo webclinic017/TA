@@ -1,0 +1,12 @@
+import base64
+import streamlit as st
+from pandas_datareader import data as pdr
+from yahoo_fin import stock_info as si
+from pandas import ExcelWriter
+import yfinance as yf
+import pandas as pd
+import time
+import os
+import datetime
+import plotly.graph_objects as go
+import pandas_ta as ta
