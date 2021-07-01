@@ -1,7 +1,8 @@
+pandas-ta==0.2.45b0
 streamlit==0.83.0
 yahoo-fin==0.8.8
 yfinance==0.1.55
 pandas-datareader==0.9.0
 pandas==1.0.5
 plotly==4.6.0
-pandas-ta==0.2.45b0
+
